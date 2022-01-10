@@ -3,3 +3,14 @@ body {
   height: 100%;
   margin: 0;
 }
+<style>
+        head {
+          text-align: center;
+        }
+        img {
+          text-align: center;
+        }
+        body {
+          text-align: center;
+        }
+</style>
